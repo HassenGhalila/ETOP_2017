@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/HassenGhalila/ETOP_2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<center><h1>Introduction to Python</h1></center>
+The goal of this workshop is to initiate master students, PhD students and Professors to Python enviromnent and programming with Python. The aim is to learn how to qickly develop interfaced and adapted codes to specific lectures and researches. Advantages of python are many :
+    - Free
+    - Compatibility between OSs
+    - Unique platform allowing many developpment and analises:
+        - Differential equation integration (Numerical library)
+        - Statistical analysis (R Environment)
+        - Formal Calculations 
+        - Generate various kind of documents (Books, articles, Sliders, ...) involving texte, images and also code lines
+    - ...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br>
+<br>
+<center><h1>WorkPlan</h1></center>
+<ul>
+<li> <b>Installation (1H)</b></li>
+<li> <b>Initiation to programming with Python(1H)</b></li>
+<li> <b>Application: Optics wave (1H)</b></li>
+</ul>
+<br>
+<br>
 
-### Markdown
+<center><h2>Documents</h2></center>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Introduction to scientifique programming
+*   [html](Doc/html/Introduction.html)
+*   [pdf](Doc/pdf/Introduction.pdf)
+*   [notebook](Doc/notebooks/Introduction.ipynb)
 
-```markdown
-Syntax highlighted code block
+### Introduction to Python
+*   [html](Doc/html/PythonIntro.html)
+*   [pdf](Doc/pdf/PythonIntro.pdf)
+*   [notebook](Doc/notebooks/PythonIntro.ipynb)
 
-# Header 1
-## Header 2
-### Header 3
+### Introduction to Numpy
+*   [html](Doc/html/NumpyIntro.html)
+*   [pdf](Doc/pdf/NumpyIntro.pdf)
+*   [notebook](Doc/notebooks/NumpyIntro.ipynb)
 
-- Bulleted
-- List
+### Introduction to Matplotlib
+*   [html](Doc/html/MatplotlibIntro/MatplotlibIntro.html)
+*   [pdf](Doc/pdf/MatplotlibIntro.pdf)
+*   [notebook](Doc/notebooks/MatplotlibIntro.ipynb)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HassenGhalila/ETOP_2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
