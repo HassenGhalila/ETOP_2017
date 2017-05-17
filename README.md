@@ -1,14 +1,15 @@
 
 <center><h1>Introduction to Python</h1></center>
 The goal of this workshop is to initiate master students, PhD students and Professors to Python enviromnent and programming with Python. The aim is to learn how to qickly develop interfaced and adapted codes to specific lectures and researches. Advantages of python are many :
-    - Free
-    - Compatibility between OSs
-    - Unique platform allowing many developpment and analises:
-        - Differential equation integration (Numerical library)
-        - Statistical analysis (R Environment)
-        - Formal Calculations 
-        - Generate various kind of documents (Books, articles, Sliders, ...) involving texte, images and also code lines
-    - ...
+
+    * Free
+    * Compatibility between OSs
+    * Unique platform allowing many developpment and analises:
+        * Differential equation integration (Numerical library)
+        * Statistical analysis (R Environment)
+        * Formal Calculations 
+        * Generate various kind of documents (Books, articles, Sliders, ...) involving texte, images and also code lines
+    * ...
 
 <br>
 <br>
