@@ -30,17 +30,17 @@ The goal of this workshop is to initiate master students, PhD students and Profe
 *   [notebook](Doc/notebooks/1_Introduction.ipynb)
 
 ### Introduction to Python
-*   [html](Doc/html/2_PythonIntro.html)
-*   [pdf](Doc/pdf/2_PythonIntro.pdf)
+<!--*   [html](Doc/html/2_PythonIntro.html)
+*   [pdf](Doc/pdf/2_PythonIntro.pdf)-->
 *   [notebook](Doc/notebooks/2_PythonIntro.ipynb)
 
 ### Introduction to Numpy
-*   [html](Doc/html/3_NumpyIntro.html)
-*   [pdf](Doc/pdf/3_NumpyIntro.pdf)
+<!--*   [html](Doc/html/3_NumpyIntro.html)
+*   [pdf](Doc/pdf/3_NumpyIntro.pdf) -->
 *   [notebook](Doc/notebooks/3_NumpyIntro.ipynb)
 
 ### Introduction to Matplotlib
-*   [html](Doc/html/MatplotlibIntro/4_MatplotlibIntro.html)
-*   [pdf](Doc/pdf/4_MatplotlibIntro.pdf)
+<!--*   [html](Doc/html/MatplotlibIntro/4_MatplotlibIntro.html)
+*   [pdf](Doc/pdf/4_MatplotlibIntro.pdf) -->
 *   [notebook](Doc/notebooks/4_MatplotlibIntro.ipynb)
 
