@@ -4,7 +4,7 @@ The goal of this workshop is to initiate master students, PhD students and Profe
 
     * Free
     * Compatibility between OSs
-    * Unique platform allowing many developpment and analises:
+    * Unique platform allowing many developpments and analises:
         * Differential equation integration (Numerical library)
         * Statistical analysis (R Environment)
         * Formal Calculations 
