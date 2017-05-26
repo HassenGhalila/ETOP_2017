@@ -16,7 +16,7 @@ The goal of this workshop is to initiate master students, PhD students and Profe
 <center><h1>WorkPlan</h1></center>
 <ul>
 <li> <b>Installation (1H)</b></li>
-<li> <b>Initiation to programming with Python(1H)</b></li>
+<li> <b>Programming initiation with Python(1H)</b></li>
 <li> <b>Application: Optics wave (1H)</b></li>
 </ul>
 <br>
