@@ -25,22 +25,22 @@ The goal of this workshop is to initiate master students, PhD students and Profe
 <center><h2>Documents</h2></center>
 
 ### Introduction to scientifique programming
-*   [html](Doc/html/Introduction.html)
-*   [pdf](Doc/pdf/Introduction.pdf)
-*   [notebook](Doc/notebooks/Introduction.ipynb)
+*   [html](Doc/html/1_Introduction.html)
+*   [pdf](Doc/pdf/1_Introduction.pdf)
+*   [notebook](Doc/notebooks/1_Introduction.ipynb)
 
 ### Introduction to Python
-*   [html](Doc/html/PythonIntro.html)
-*   [pdf](Doc/pdf/PythonIntro.pdf)
-*   [notebook](Doc/notebooks/PythonIntro.ipynb)
+*   [html](Doc/html/2_PythonIntro.html)
+*   [pdf](Doc/pdf/2_PythonIntro.pdf)
+*   [notebook](Doc/notebooks/2_PythonIntro.ipynb)
 
 ### Introduction to Numpy
-*   [html](Doc/html/NumpyIntro.html)
-*   [pdf](Doc/pdf/NumpyIntro.pdf)
-*   [notebook](Doc/notebooks/NumpyIntro.ipynb)
+*   [html](Doc/html/3_NumpyIntro.html)
+*   [pdf](Doc/pdf/3_NumpyIntro.pdf)
+*   [notebook](Doc/notebooks/3_NumpyIntro.ipynb)
 
 ### Introduction to Matplotlib
-*   [html](Doc/html/MatplotlibIntro/MatplotlibIntro.html)
-*   [pdf](Doc/pdf/MatplotlibIntro.pdf)
-*   [notebook](Doc/notebooks/MatplotlibIntro.ipynb)
+*   [html](Doc/html/MatplotlibIntro/4_MatplotlibIntro.html)
+*   [pdf](Doc/pdf/4_MatplotlibIntro.pdf)
+*   [notebook](Doc/notebooks/4_MatplotlibIntro.ipynb)
 
